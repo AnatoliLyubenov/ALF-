@@ -1,0 +1,36 @@
+VolleyballTeam fields:
+name='Neftohimik', 
+stadium='Neftohimik Arena', 
+coach='Stamen Petrov', 
+players=[VolleyballPlayer fields:
+name='Chaushev', 
+age=23, 
+position=Libero, 
+skills=10, 
+condition=2, VolleyballPlayer fields:
+name='Kirilov', 
+age=22, 
+position=setter, 
+skills=9, 
+condition=4, VolleyballPlayer fields:
+name='Stamenov', 
+age=20, 
+position=outside hitter, 
+skills=8, 
+condition=4, VolleyballPlayer fields:
+name='Lyubenov', 
+age=29, 
+position=blocker, 
+skills=10, 
+condition=3, VolleyballPlayer fields:
+name='Rumenov', 
+age=31, 
+position=serving specialist, 
+skills=7, 
+condition=3, VolleyballPlayer fields:
+name='Antonov', 
+age=32, 
+position=defensive specialist, 
+skills=8, 
+condition=5]
+
